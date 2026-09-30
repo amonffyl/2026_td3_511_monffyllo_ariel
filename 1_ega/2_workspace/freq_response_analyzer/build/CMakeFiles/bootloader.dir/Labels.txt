@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/CMakeFiles/bootloader
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/CMakeFiles/bootloader.rule
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/CMakeFiles/bootloader-complete.rule
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/ariel/2026_td3_511_monffyllo_ariel/1_ega/2_workspace/freq_response_analyzer/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
